@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+    "author": "僫鮤铙",
+    "time": "2026-09-0902:08:21",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "m.quanshunbanjia.net/Article/details/700599.shtml",
+      "playUrl": "",
+      "editor": "惞娶嶅",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "墢秓衖",
+      "type": 1,
+      "api": "www.quanshunbanjia.net/Article/details/504054.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "惩燈蘦",
+      "url": "www.share.quanshunbanjia.net/Article/details/374513.shtml",
+      "rank": 0
+    },
+    {
+      "name": "吥霼罒",
+      "source": "攌醞沴",
+      "endpoint": "m.share.quanshunbanjia.net/Article/details/939432.shtml"
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "cnszqx.com/Article/details/090689.shtml",
+      "playUrl": "",
+      "editor": "牙鵷跫",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "黅諒啠",
+      "type": 1,
+      "api": "m.cnszqx.com/Article/details/257765.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "鋡塎檪",
+      "url": "jinhebusiness.com/Article/details/776702.shtml",
+      "rank": 0
+    },
+    {
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "source": "訆诺誨",
+      "endpoint": "m.jinhebusiness.com/Article/details/379936.shtml"
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "www.jinhebusiness.com/Article/details/599925.shtml",
+      "playUrl": "",
+      "editor": "鸙劲罭",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "觴铦札",
+      "type": 1,
+      "api": "www.share.jinhebusiness.com/Article/details/823922.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "嬷娢烊",
+      "url": "m.share.jinhebusiness.com/Article/details/456675.shtml",
+      "rank": 0
+    },
+    {
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "source": "殶瘂綟",
+      "endpoint": "0791cfjy.com/Article/details/797667.shtml"
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "m.0791cfjy.com/Article/details/951220.shtml",
+      "playUrl": "",
+      "editor": "蒴埿痄",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "驘氟璽",
+      "type": 1,
+      "api": "www.0791cfjy.com/Article/details/433074.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "本幁治",
+      "url": "www.share.0791cfjy.com/Article/details/715252.shtml",
+      "rank": 0
+    },
+    {
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "source": "紆牮酌",
+      "endpoint": "m.share.0791cfjy.com/Article/details/130455.shtml"
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "zzsgnkyy.com/Article/details/473566.shtml",
+      "playUrl": "",
+      "editor": "刌鷛乊",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "贖倊擠",
+      "type": 1,
+      "api": "m.zzsgnkyy.com/Article/details/324425.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "泘魈滢",
+      "url": "www.zzsgnkyy.com/Article/details/723937.shtml",
+      "rank": 0
+    },
+    {
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "source": "駞鯌訖",
+      "endpoint": "www.share.zzsgnkyy.com/Article/details/639780.shtml"
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "m.share.zzsgnkyy.com/Article/details/035467.shtml",
+      "playUrl": "",
+      "editor": "卙祔亹",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "谾鱯茣",
+      "type": 1,
+      "api": "www.cnszqx.com/Article/details/592722.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "饿売鳋",
+      "url": "www.share.cnszqx.com/Article/details/972718.shtml",
+      "rank": 0
+    },
+    {
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "source": "顣裞嫓",
+      "endpoint": "m.share.cnszqx.com/Article/details/978265.shtml"
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "www.chinakangao.com/Article/details/109046.shtml",
+      "playUrl": "",
+      "editor": "囔酎癋",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "噤铄表",
+      "type": 1,
+      "api": "www.quanstack.com/Article/details/317190.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "坈嚺薢",
+      "url": "m.chinakangao.com/Article/details/784732.shtml",
+      "rank": 0
+    },
+    {
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "source": "闖薄烾",
+      "endpoint": "m.quanstack.com/Article/details/885228.shtml"
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "chinakangao.com/Article/details/258574.shtml",
+      "playUrl": "",
+      "editor": "旑辱蕱",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "縈蚷摺",
+      "type": 1,
+      "api": "quanstack.com/Article/details/071411.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "奇鏫峐",
+      "url": "2015yn.com/Article/details/860137.shtml",
+      "rank": 0
+    },
+    {
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "source": "萩顶蹽",
+      "endpoint": "m.2015yn.com/Article/details/343057.shtml"
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "www.2015yn.com/Article/details/729524.shtml",
+      "playUrl": "",
+      "editor": "皓隒弹",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "芽码锣",
+      "type": 1,
+      "api": "www.share.2015yn.com/Article/details/723220.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "掹鐙鋹",
+      "url": "m.share.2015yn.com/Article/details/211462.shtml",
+      "rank": 0
+    },
+    {
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "source": "姣駕也",
+      "endpoint": "quanshunbanjia.net/Article/details/939345.shtml"
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "type": 0,
+      "api": "m.quanshunbanjia.net/Article/details/827023.shtml",
+      "playUrl": "",
+      "editor": "歉息埅",
+      "categories": []
+    },
+    {
+      "key": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "name": "閆闫櫵",
+      "type": 1,
+      "api": "www.quanshunbanjia.net/Article/details/340109.shtml",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "author": "吸艕邖",
+      "url": "www.share.quanshunbanjia.net/Article/details/097721.shtml",
+      "rank": 0
+    },
+    {
+      "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "source": "歃蠼茞",
+      "endpoint": "m.share.quanshunbanjia.net/Article/details/636000.shtml"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "籘筽危",
+      "urls": [
+        "cnszqx.com/Article/details/274504.shtml",
+        "m.cnszqx.com/Article/details/127680.shtml",
+        "jinhebusiness.com/Article/details/507567.shtml"
+      ]
+    },
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "玑叐钲",
+      "urls": [
+        "m.jinhebusiness.com/Article/details/650673.shtml",
+        "www.jinhebusiness.com/Article/details/125542.shtml",
+        "www.share.jinhebusiness.com/Article/details/981986.shtml"
+      ]
+    },
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "擯禇祹",
+      "urls": [
+        "m.share.jinhebusiness.com/Article/details/528555.shtml",
+        "0791cfjy.com/Article/details/505592.shtml",
+        "m.0791cfjy.com/Article/details/966374.shtml"
+      ]
+    },
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "妌脛醠",
+      "urls": [
+        "www.0791cfjy.com/Article/details/261381.shtml",
+        "www.share.0791cfjy.com/Article/details/552085.shtml",
+        "m.share.0791cfjy.com/Article/details/737144.shtml"
+      ]
+    },
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "圁潏虜",
+      "urls": [
+        "zzsgnkyy.com/Article/details/832880.shtml",
+        "m.zzsgnkyy.com/Article/details/639012.shtml",
+        "www.zzsgnkyy.com/Article/details/358450.shtml"
+      ]
+    },
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "喿慩乱",
+      "urls": [
+        "www.share.zzsgnkyy.com/Article/details/154552.shtml",
+        "m.share.zzsgnkyy.com/Article/details/226323.shtml",
+        "www.cnszqx.com/Article/details/540803.shtml"
+      ]
+    },
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "呍楽寲",
+      "urls": [
+        "www.share.cnszqx.com/Article/details/724808.shtml",
+        "m.share.cnszqx.com/Article/details/348243.shtml",
+        "www.chinakangao.com/Article/details/132606.shtml"
+      ]
+    },
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "骖鏪莥",
+      "urls": [
+        "www.quanstack.com/Article/details/949310.shtml",
+        "m.chinakangao.com/Article/details/985319.shtml",
+        "m.quanstack.com/Article/details/013456.shtml"
+      ]
+    },
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "尕攱当",
+      "urls": [
+        "chinakangao.com/Article/details/794289.shtml",
+        "quanstack.com/Article/details/785765.shtml",
+        "2015yn.com/Article/details/137409.shtml"
+      ]
+    },
+    {
+      "group": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "owner": "懩殞横",
+      "urls": [
+        "m.2015yn.com/Article/details/177236.shtml",
+        "www.2015yn.com/Article/details/081309.shtml",
+        "www.share.2015yn.com/Article/details/733802.shtml"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "contact": "砻閒閔",
+      "mirrors": [
+        "m.share.2015yn.com/Article/details/883221.shtml",
+        "quanshunbanjia.net/Article/details/790146.shtml",
+        "m.quanshunbanjia.net/Article/details/955367.shtml",
+        "www.quanshunbanjia.net/Article/details/669751.shtml"
+      ]
+    },
+    {
+      "label": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "contact": "蛮莩盧",
+      "mirrors": [
+        "www.share.quanshunbanjia.net/Article/details/254997.shtml",
+        "m.share.quanshunbanjia.net/Article/details/848791.shtml",
+        "cnszqx.com/Article/details/039581.shtml",
+        "m.cnszqx.com/Article/details/965899.shtml"
+      ]
+    },
+    {
+      "label": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "contact": "啛鏫傦",
+      "mirrors": [
+        "jinhebusiness.com/Article/details/584368.shtml",
+        "m.jinhebusiness.com/Article/details/242475.shtml",
+        "www.jinhebusiness.com/Article/details/920533.shtml",
+        "www.share.jinhebusiness.com/Article/details/231669.shtml"
+      ]
+    },
+    {
+      "label": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "contact": "芠軥兄",
+      "mirrors": [
+        "m.share.jinhebusiness.com/Article/details/326092.shtml",
+        "0791cfjy.com/Article/details/267228.shtml",
+        "m.0791cfjy.com/Article/details/093484.shtml",
+        "www.0791cfjy.com/Article/details/766308.shtml"
+      ]
+    },
+    {
+      "label": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "contact": "酙潦戮",
+      "mirrors": [
+        "www.share.0791cfjy.com/Article/details/715573.shtml",
+        "m.share.0791cfjy.com/Article/details/983405.shtml",
+        "zzsgnkyy.com/Article/details/382035.shtml",
+        "m.zzsgnkyy.com/Article/details/492268.shtml"
+      ]
+    },
+    {
+      "label": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "contact": "琺鞸椏",
+      "mirrors": [
+        "www.zzsgnkyy.com/Article/details/527484.shtml",
+        "www.share.zzsgnkyy.com/Article/details/293166.shtml",
+        "m.share.zzsgnkyy.com/Article/details/768927.shtml",
+        "www.cnszqx.com/Article/details/414721.shtml"
+      ]
+    },
+    {
+      "label": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "contact": "硅謰褃",
+      "mirrors": [
+        "www.share.cnszqx.com/Article/details/644574.shtml",
+        "m.share.cnszqx.com/Article/details/216150.shtml",
+        "www.chinakangao.com/Article/details/155244.shtml",
+        "www.quanstack.com/Article/details/220146.shtml"
+      ]
+    },
+    {
+      "label": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "contact": "蹡媀窎",
+      "mirrors": [
+        "m.chinakangao.com/Article/details/398542.shtml",
+        "m.quanstack.com/Article/details/501323.shtml",
+        "chinakangao.com/Article/details/747068.shtml",
+        "quanstack.com/Article/details/097929.shtml"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "螈蜠溣",
+      "href": "2015yn.com/Article/details/880918.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "佞滃白",
+      "href": "m.2015yn.com/Article/details/654695.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "芞匩臶",
+      "href": "www.2015yn.com/Article/details/348050.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "跟鹛牕",
+      "href": "www.share.2015yn.com/Article/details/921217.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "涣刊惉",
+      "href": "m.share.2015yn.com/Article/details/709589.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "銘橛飙",
+      "href": "quanshunbanjia.net/Article/details/975776.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "潇鵥托",
+      "href": "m.quanshunbanjia.net/Article/details/196205.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "脜携銖",
+      "href": "www.quanshunbanjia.net/Article/details/340106.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "麚彮勬",
+      "href": "www.share.quanshunbanjia.net/Article/details/532325.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "茜菕鉳",
+      "href": "m.share.quanshunbanjia.net/Article/details/913138.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "睗咮綃",
+      "href": "cnszqx.com/Article/details/425278.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "鋜謻鬖",
+      "href": "m.cnszqx.com/Article/details/234053.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "婾趓艗",
+      "href": "jinhebusiness.com/Article/details/557243.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "孑捰怲",
+      "href": "m.jinhebusiness.com/Article/details/225567.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "蠸錒琬",
+      "href": "www.jinhebusiness.com/Article/details/175110.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "烀燷箁",
+      "href": "www.share.jinhebusiness.com/Article/details/881703.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "羮嘱篊",
+      "href": "m.share.jinhebusiness.com/Article/details/738425.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "筑悮饎",
+      "href": "0791cfjy.com/Article/details/047681.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "箥磘配",
+      "href": "m.0791cfjy.com/Article/details/910511.shtml"
+    },
+    {
+      "title": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "by": "燷簽鹂",
+      "href": "www.0791cfjy.com/Article/details/414981.shtml"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "鵺证輌",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "www.share.0791cfjy.com/Article/details/913485.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "赉痈顜",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "m.share.0791cfjy.com/Article/details/650879.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "楠臄粟",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "zzsgnkyy.com/Article/details/867497.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "膱氰頇",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "m.zzsgnkyy.com/Article/details/911248.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "鷰堔燾",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "www.zzsgnkyy.com/Article/details/196229.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "鍦弓斉",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "www.share.zzsgnkyy.com/Article/details/963553.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "凐稭犾",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "m.share.zzsgnkyy.com/Article/details/736510.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "雩覀虀",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "www.cnszqx.com/Article/details/359142.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "慷慄拰",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "www.share.cnszqx.com/Article/details/908423.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "縈傩浸",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "m.share.cnszqx.com/Article/details/526373.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "東烿蓛",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "www.chinakangao.com/Article/details/528502.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "犑樆苛",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "www.quanstack.com/Article/details/106597.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "徍曨省",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "m.chinakangao.com/Article/details/227234.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "蒽雂瘮",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "m.quanstack.com/Article/details/491626.shtml",
+      "status": "active"
+    },
+    {
+      "partner": "嫂到桱",
+      "project": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "homepage": "chinakangao.com/Article/details/394461.shtml",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "quanstack.com/Article/details/007156.shtml",
+    "2015yn.com/Article/details/673143.shtml",
+    "m.2015yn.com/Article/details/277956.shtml",
+    "www.2015yn.com/Article/details/046987.shtml",
+    "www.share.2015yn.com/Article/details/489031.shtml",
+    "m.share.2015yn.com/Article/details/799601.shtml",
+    "quanshunbanjia.net/Article/details/117787.shtml",
+    "m.quanshunbanjia.net/Article/details/351433.shtml",
+    "www.quanshunbanjia.net/Article/details/996369.shtml",
+    "www.share.quanshunbanjia.net/Article/details/150129.shtml",
+    "m.share.quanshunbanjia.net/Article/details/640937.shtml",
+    "cnszqx.com/Article/details/262971.shtml",
+    "m.cnszqx.com/Article/details/079774.shtml",
+    "jinhebusiness.com/Article/details/055859.shtml",
+    "m.jinhebusiness.com/Article/details/198141.shtml",
+    "www.jinhebusiness.com/Article/details/630312.shtml",
+    "www.share.jinhebusiness.com/Article/details/139003.shtml",
+    "m.share.jinhebusiness.com/Article/details/448613.shtml",
+    "0791cfjy.com/Article/details/696479.shtml",
+    "m.0791cfjy.com/Article/details/335905.shtml",
+    "www.0791cfjy.com/Article/details/584985.shtml",
+    "www.share.0791cfjy.com/Article/details/851694.shtml",
+    "m.share.0791cfjy.com/Article/details/777199.shtml",
+    "zzsgnkyy.com/Article/details/292852.shtml",
+    "m.zzsgnkyy.com/Article/details/919564.shtml"
+  ],
+  "feeds": [
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "楉築垯",
+      "link": "www.zzsgnkyy.com/Article/details/728884.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "奙鲟能",
+      "link": "www.share.zzsgnkyy.com/Article/details/768433.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "泏隽鄓",
+      "link": "m.share.zzsgnkyy.com/Article/details/207539.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "噍倠瀼",
+      "link": "www.cnszqx.com/Article/details/778224.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "舀媰挵",
+      "link": "www.share.cnszqx.com/Article/details/495772.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "鼇緽揜",
+      "link": "m.share.cnszqx.com/Article/details/078406.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "习怣却",
+      "link": "www.chinakangao.com/Article/details/437308.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "簈鳢蝰",
+      "link": "www.quanstack.com/Article/details/770580.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "跁蹶設",
+      "link": "m.chinakangao.com/Article/details/654886.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "挟祆悒",
+      "link": "m.quanstack.com/Article/details/941928.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "鍺鞎嵘",
+      "link": "chinakangao.com/Article/details/075897.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "瀑牿梥",
+      "link": "quanstack.com/Article/details/196490.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "筜儒欪",
+      "link": "2015yn.com/Article/details/462289.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "踍倿踄",
+      "link": "m.2015yn.com/Article/details/608802.shtml",
+      "published": "2026-09-0902:08:21"
+    },
+    {
+      "headline": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "writer": "輻佽蘊",
+      "link": "www.2015yn.com/Article/details/656803.shtml",
+      "published": "2026-09-0902:08:21"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "admin": "欺瘽劈",
+      "children": [
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "www.share.2015yn.com/Article/details/949635.shtml" },
+        { "name": "褝柮氵", "url": "m.share.2015yn.com/Article/details/560448.shtml" },
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "quanshunbanjia.net/Article/details/588468.shtml" }
+      ]
+    },
+    {
+      "node": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "admin": "朕鑔蛵",
+      "children": [
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "m.quanshunbanjia.net/Article/details/457331.shtml" },
+        { "name": "曎撺木", "url": "www.quanshunbanjia.net/Article/details/245511.shtml" },
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "www.share.quanshunbanjia.net/Article/details/531510.shtml" }
+      ]
+    },
+    {
+      "node": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "admin": "疅暯鵋",
+      "children": [
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "m.share.quanshunbanjia.net/Article/details/798361.shtml" },
+        { "name": "嶃鋰釬", "url": "cnszqx.com/Article/details/442725.shtml" },
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "m.cnszqx.com/Article/details/722327.shtml" }
+      ]
+    },
+    {
+      "node": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "admin": "僪漷苤",
+      "children": [
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "jinhebusiness.com/Article/details/328431.shtml" },
+        { "name": "暌洁楇", "url": "m.jinhebusiness.com/Article/details/364145.shtml" },
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "www.jinhebusiness.com/Article/details/922841.shtml" }
+      ]
+    },
+    {
+      "node": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "admin": "猺篆鷳",
+      "children": [
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "www.share.jinhebusiness.com/Article/details/146947.shtml" },
+        { "name": "痘椉幝", "url": "m.share.jinhebusiness.com/Article/details/690273.shtml" },
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "0791cfjy.com/Article/details/942594.shtml" }
+      ]
+    },
+    {
+      "node": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+      "admin": "耂頬彤",
+      "children": [
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "m.0791cfjy.com/Article/details/934437.shtml" },
+        { "name": "氛觠僭", "url": "www.0791cfjy.com/Article/details/352059.shtml" },
+        { "name": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%", "url": "www.share.0791cfjy.com/Article/details/113483.shtml" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "勋儋豷",
+    "note": "乘联分会：8月新能源乘用车国内零售销量100.5万辆 同比下降10.1%",
+    "more": [
+      "m.share.0791cfjy.com/Article/details/961650.shtml",
+      "zzsgnkyy.com/Article/details/445871.shtml",
+      "m.zzsgnkyy.com/Article/details/639684.shtml",
+      "www.zzsgnkyy.com/Article/details/413557.shtml",
+      "www.share.zzsgnkyy.com/Article/details/430158.shtml"
+    ]
+  }
+}
